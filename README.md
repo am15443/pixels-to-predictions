@@ -145,7 +145,7 @@ No changes needed — just click **Save Version → Save & Run All**.
 
 **Expected runtime:** ~12 hours (5 epochs × ~2.4 hours each).
 
-> ⚠️ **Important:** Kaggle has a 12-hour maximum execution time per notebook session. Notebook B hits this limit during inference. Use the inference-only notebook (Step 5) to complete predictions from the saved adapter.
+> **Important:** Kaggle has a 12-hour maximum execution time per notebook session. Notebook B hits this limit during inference. Use the inference-only notebook (Step 5) to complete predictions from the saved adapter.
 
 ---
 
